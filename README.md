@@ -2,7 +2,7 @@
 
 ## Résultats
 
-**Nom / Prénom :** NOM Prénom (à remplacer)
+**Nom / Prénom :** DIONE PAPE DJIBRIL
 
 Évaluation sur un jeu de validation de 600 flux (20 % des données, découpage stratifié, `random_state=42`).
 
